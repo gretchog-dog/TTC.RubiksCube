@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.RubiksCubeSimulatorTests\\TTC.RubiksCubeSimulatorTests.csproj": {}
+  },
+  "projects": {
+    "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.DataObjects\\TTC.DataObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.DataObjects\\TTC.DataObjects.csproj",
+        "projectName": "TTC.DataObjects",
+        "projectPath": "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.DataObjects\\TTC.DataObjects.csproj",
+        "packagesPath": "C:\\Users\\gretc\\.nuget\\packages\\",
+        "outputPath": "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.DataObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gretc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.RubiksCubeSimulatorTests\\TTC.RubiksCubeSimulatorTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.RubiksCubeSimulatorTests\\TTC.RubiksCubeSimulatorTests.csproj",
+        "projectName": "TTC.RubiksCubeSimulatorTests",
+        "projectPath": "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.RubiksCubeSimulatorTests\\TTC.RubiksCubeSimulatorTests.csproj",
+        "packagesPath": "C:\\Users\\gretc\\.nuget\\packages\\",
+        "outputPath": "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.RubiksCubeSimulatorTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gretc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.DataObjects\\TTC.DataObjects.csproj": {
+                "projectPath": "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.DataObjects\\TTC.DataObjects.csproj"
+              },
+              "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.RubiksCubeSimulator\\TTC.RubiksCubeSimulator.csproj": {
+                "projectPath": "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.RubiksCubeSimulator\\TTC.RubiksCubeSimulator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.RubiksCubeSimulator\\TTC.RubiksCubeSimulator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.RubiksCubeSimulator\\TTC.RubiksCubeSimulator.csproj",
+        "projectName": "TTC.RubiksCubeSimulator",
+        "projectPath": "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.RubiksCubeSimulator\\TTC.RubiksCubeSimulator.csproj",
+        "packagesPath": "C:\\Users\\gretc\\.nuget\\packages\\",
+        "outputPath": "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.RubiksCubeSimulator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gretc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.DataObjects\\TTC.DataObjects.csproj": {
+                "projectPath": "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.DataObjects\\TTC.DataObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.DataObjects\\TTC.DataObjects.csproj": {}
+  },
+  "projects": {
+    "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.DataObjects\\TTC.DataObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.DataObjects\\TTC.DataObjects.csproj",
+        "projectName": "TTC.DataObjects",
+        "projectPath": "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.DataObjects\\TTC.DataObjects.csproj",
+        "packagesPath": "C:\\Users\\gretc\\.nuget\\packages\\",
+        "outputPath": "E:\\repos\\TTC.RubiksCube\\TTC.RubiksCube\\TTC.DataObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gretc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

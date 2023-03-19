@@ -1,0 +1,12 @@
+E:\repos\TTC.RubiksCube\TTC.RubiksCube\TTC.DataObjects\bin\Debug\net6.0\TTC.DataObjects.deps.json
+E:\repos\TTC.RubiksCube\TTC.RubiksCube\TTC.DataObjects\bin\Debug\net6.0\TTC.DataObjects.dll
+E:\repos\TTC.RubiksCube\TTC.RubiksCube\TTC.DataObjects\bin\Debug\net6.0\TTC.DataObjects.pdb
+E:\repos\TTC.RubiksCube\TTC.RubiksCube\TTC.DataObjects\obj\Debug\net6.0\TTC.DataObjects.csproj.AssemblyReference.cache
+E:\repos\TTC.RubiksCube\TTC.RubiksCube\TTC.DataObjects\obj\Debug\net6.0\TTC.DataObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\TTC.RubiksCube\TTC.RubiksCube\TTC.DataObjects\obj\Debug\net6.0\TTC.DataObjects.AssemblyInfoInputs.cache
+E:\repos\TTC.RubiksCube\TTC.RubiksCube\TTC.DataObjects\obj\Debug\net6.0\TTC.DataObjects.AssemblyInfo.cs
+E:\repos\TTC.RubiksCube\TTC.RubiksCube\TTC.DataObjects\obj\Debug\net6.0\TTC.DataObjects.csproj.CoreCompileInputs.cache
+E:\repos\TTC.RubiksCube\TTC.RubiksCube\TTC.DataObjects\obj\Debug\net6.0\TTC.DataObjects.dll
+E:\repos\TTC.RubiksCube\TTC.RubiksCube\TTC.DataObjects\obj\Debug\net6.0\refint\TTC.DataObjects.dll
+E:\repos\TTC.RubiksCube\TTC.RubiksCube\TTC.DataObjects\obj\Debug\net6.0\TTC.DataObjects.pdb
+E:\repos\TTC.RubiksCube\TTC.RubiksCube\TTC.DataObjects\obj\Debug\net6.0\ref\TTC.DataObjects.dll
